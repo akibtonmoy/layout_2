@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	min-height: 50px;
+	background-color: skyblue;
+	margin-bottom: 20px;
+}
+.logo{
+	background-color: skyblue;
+	min-height: 60px;
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.navigation{
+	background-color: skyblue;
+	min-height: 60px;
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+.wrapper{
+	overflow: hidden;
+}
+.box-1,.box-2,.box-3,.box-4{
+	background-color: skyblue;
+	height: 80px;
+	margin-bottom: 15px;
+	width: 20%;
+	float: left;
+}
+.box-2{
+	margin-left: 7%;
+}
+.box-3{
+	margin-left: 7%;
+}
+.box-4{
+	float: right;
+}
+.wrapper-two{
+	overflow: hidden;
+}
+.box-one,.box-two,.box-three{
+	background-color: skyblue;
+	height: 200px;
+	width: 30%;
+	margin-bottom: 10px;
+	float: left;
+	text-align: center;
+}
+.box-two{
+	margin-left: 5%;
+}
+.box-three{
+	float: right;
+}
+footer{
+	height: 100px;
+	background-color: skyblue;
+	margin-top: 15px;
+}
